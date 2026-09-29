@@ -1,2 +1,5 @@
 可以下载像素工厂(Mindustry)的安装包或sh,windows安装包自带运行环境
+
 [点击我跳转下载](https://github.com/disimingqianqian/download-Mindustry/releases)
+
+一般人请点Mindustry-setup.exe下载就可以了,也可以点击上面的描述用镜像加速下载
